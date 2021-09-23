@@ -11,7 +11,7 @@ Before you run the app, make sure to :
 #The UI : 
 ![alt text](https://github.com/nikolakosticc/openweather_api_tkinter/blob/main/images/example.png)
 
-#How to install
+# How to install
 
 Make sure to install the following modules : 
 
@@ -21,3 +21,5 @@ pip install requests
 pip install Pillow
 pip install pyglet
 ```
+
+Now, you're ready to rock! Feel free to leave a fork! Goodbye!
