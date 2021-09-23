@@ -8,7 +8,7 @@ Before you run the app, make sure to :
 1. Open a Openweather account and replace your api with mine.
 2. Replace my file destinations (font and image) with yours.
 
-#The UI : 
+# The UI : 
 ![alt text](https://github.com/nikolakosticc/openweather_api_tkinter/blob/main/images/example.png)
 
 # How to install
